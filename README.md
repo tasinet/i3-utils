@@ -33,7 +33,7 @@ Executes command,  moves the resulting window to workspace WORKSPACE_INDEX (if n
 
 Example:
 
-`./open-in.sh 8 spotify`
+`./open-in-follow.sh 8 spotify`
 
 ## open-in-current.sh COMMAND
 
